@@ -1,0 +1,7 @@
+  </main>
+  <div class="footer-bar no-print">&copy; Smart Campus Gardening &amp; Irrigation System &middot; College project &middot; Water figures are estimates (no flow sensors)</div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/bootstrap.bundle.min.js"></script>
+<script src="${ctx}/assets/js/app.js"></script>
+</body>
+</html>
